@@ -1,5 +1,6 @@
 # SearchParticleAnimateDemo-
 
+相关文章地址：http://www.jianshu.com/p/29e18d55289f
 先来看看效果：
 
 ![动画效果](https://github.com/hufengiOS/SearchParticleAnimateDemo-/blob/master/animation.gif)
