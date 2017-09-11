@@ -2,7 +2,7 @@
 
 先来看看效果：
 
-
+![动画效果](https://github.com/hufengiOS/SearchParticleAnimateDemo-/blob/master/animation.gif)
 
 #### 动画实现：
 该动画由一组运动的粒子组成。
@@ -11,6 +11,7 @@
 * 为了让放射的粒子成线性，需要把粒子的发射角度限制在较小的范围内，这样绘制的效果如图。
 * 可见这些是离散的点，为了让粒子首尾相连，需要给每一束粒子加一个自转动画，需要注意的是，自转速度要和粒子运动的线速度对应，即：粒子运动一圈，自转360度。
 
+![不带自转的动画](https://github.com/hufengiOS/SearchParticleAnimateDemo-/blob/master/animation1.gif)
 
 
 
